@@ -1,0 +1,133 @@
+.container
+        {
+            background-color:#242424;
+            color: white;
+            height:30%;
+            width: 50%;
+            text-align: center;
+            
+        }
+        .b1
+        {
+            background-color: whitesmoke;
+            color:black;
+            height:30%;
+            width: 50%;
+            text-align: center;
+            
+        }
+        .b3
+        {
+            display: flex;
+        }
+        .main
+        {
+            display: flex;
+            padding-top: 10px;
+        }
+       
+        .search
+        {
+            margin-left: 700px;
+            padding-right: 80px;
+            padding-top: 40px;
+            padding-left: 100px;
+        }
+        .user
+        {
+           
+            padding-top: 40px;
+            padding-left: 50px;
+        }
+        .bus
+        {
+            
+            padding-top: 40px;
+            padding-left: 50px;   
+        }
+        .heart
+        {
+            padding-top: 40px;
+            padding-left: 50px;   
+        }
+        .box
+        {
+            padding-top: 40px;
+            padding-left: 50px;  
+        }
+        .names
+        {
+            font-weight: 600px;
+            justify-content: space-evenly;
+            display: flex;
+            font-size: smaller;
+            padding-bottom: 30px;
+            color: #242424;
+        }
+        .collectin
+        {
+            display: flex;
+            justify-content: space-evenly;
+            margin-left: 40%;
+            margin-right: 45%;
+
+        }
+        .h2
+        {
+            text-align: center;
+        }
+        .image
+        {
+            display: flex;
+            justify-content: space-evenly;
+        }
+        .names2
+        {
+            font-weight: 600px;
+            justify-content: space-evenly;
+            display: flex;
+            font-size: smaller;
+            padding-top: 15px;
+            color: #242424;
+        }
+        .image2
+        {
+            display: flex;
+            padding-top: 65px;
+            justify-content: space-evenly;
+        }
+        .h1
+        {
+            text-align: center;
+        }
+        .images3
+        {
+            display: flex;
+            padding-top: 35px;
+            justify-content: space-evenly;
+        }
+        .images4
+        {
+            display: flex;
+            padding-top: 35px;
+            justify-content: space-evenly;
+        }
+        .h3
+        {
+            text-align: center; 
+        }
+        .images5
+        {
+            display: flex;
+            padding-top: 35px;
+            justify-content: space-evenly;
+        }
+        .foot
+        {
+            
+            box-align: border-box;
+            display: flex;
+            padding-top: 35px;
+            justify-content: space-evenly;
+        }
+        
